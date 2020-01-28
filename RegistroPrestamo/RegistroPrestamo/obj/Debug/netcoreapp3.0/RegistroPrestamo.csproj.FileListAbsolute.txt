@@ -1,0 +1,11 @@
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\bin\Debug\netcoreapp3.0\RegistroPrestamo.exe
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\RegistroPrestamo.csprojAssemblyReference.cache
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\RegistroPrestamo_MarkupCompile.cache
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\RegistroPrestamo_MarkupCompile.lref
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\RegistroPrestamo.g.resources
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\RegistroPrestamo.AssemblyInfoInputs.cache
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\RegistroPrestamo.AssemblyInfo.cs
+C:\Users\Terminal-A11\source\repos\RegistroPrestamo\RegistroPrestamo\obj\Debug\netcoreapp3.0\RegistroPrestamo.pdb
